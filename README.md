@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michele Ayadi</h1>
-<h3 align="center">Enthusiastic learner from an agile environment, with a keen interest in crafting and maintaining modern software products. Rooted in full-stack web development, I possess expertise in TypeScript and hands-on experience in executing projects using React, NestJS, and NextJS. Fascination for process automation and a keen interest in staying abreast of the latest tech trends. I am prepared to contribute my skills from planning to automated deployment within your organization.</h3>
+<h3 align="left">Enthusiastic learner from an agile environment, with a keen interest in crafting and maintaining modern software products. Rooted in full-stack web development, I possess expertise in TypeScript and hands-on experience in executing projects using React, NestJS, and NextJS. Fascination for process automation and a keen interest in staying abreast of the latest tech trends. I am prepared to contribute my skills from planning to automated deployment within your organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonbytes&label=Profile%20views&color=0e75b6&style=flat" alt="lemonbytes" /> </p>
 
