@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | TypeScript Enthusiast | Automation Enjoyer</h3>
 
 <p>
-Curious and adaptable developer with a strong foundation in full-stack web development. Skilled in building modern, scalable applications using React, NestJS, and NextJS. I thrive in agile environments, enjoy process automation, and contribute across the entire software lifecycle—from planning to CI/CD deployment.
+Enthusiastic learner from an agile environment, with a keen interest in crafting and maintaining modern software products. Rooted in full-stack web development, I possess expertise in TypeScript and hands-on experience in executing projects using React, NestJS, and NextJS. Fascination for process automation and a keen interest in staying abreast of the latest tech trends. I am prepared to contribute my skills from planning to automated deployment within your organization.
 </p>
 
 <p>
