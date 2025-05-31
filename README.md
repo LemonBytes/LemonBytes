@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michele Ayadi</h1>
 
-<h3 align="center">Full-Stack Developer | TypeScript Enthusiast | Automation Specialist</h3>
+<h3 align="center">Full-Stack Developer | TypeScript Enthusiast | Automation Enjoyer</h3>
 
 <p>
 Curious and adaptable developer with a strong foundation in full-stack web development. Skilled in building modern, scalable applications using React, NestJS, and NextJS. I thrive in agile environments, enjoy process automation, and contribute across the entire software lifecycle—from planning to CI/CD deployment.
